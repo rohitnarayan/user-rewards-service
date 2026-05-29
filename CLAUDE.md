@@ -1,4 +1,4 @@
-# Hotstar — Claude Code Project Context
+# Claude Code Project Context
 
 ## Project Overview
 A Go rewards and watch-tracking system for a streaming platform. Tracks user reward points, transaction history, watch history, streaks, and content completion.
